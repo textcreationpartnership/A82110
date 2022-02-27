@@ -1,0 +1,381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of several of the Churches of Christ, and godly people in and about the citie of London; concerning the kingly interest of Christ, and the present suffrings of his cause and saints in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82110</idno>
+            <idno type="STC">Wing D618</idno>
+            <idno type="STC">Thomason E809_15</idno>
+            <idno type="STC">ESTC R207568</idno>
+            <idno type="EEBO-CITATION">99866612</idno>
+            <idno type="PROQUEST">99866612</idno>
+            <idno type="VID">167915</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167915)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E809[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of several of the Churches of Christ, and godly people in and about the citie of London; concerning the kingly interest of Christ, and the present suffrings of his cause and saints in England.</title>
+               </titleStmt>
+               <extent>[2], 19, [7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Livewel Chapman, at the Crown in Popes-head-Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Royal office --  Early works to 1800.</term>
+               <term>Providence and government of God --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167915:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of ſeveral of the Churches of Chriſt, AND GODLY PEOPLE In and about the Citie of <hi>LONDON;</hi> Concerning The Kingly Intereſt OF CHRIST, AND The preſent Suffrings OF His Cauſe and Saints in <hi>England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Livewel Chapman,</hi> at the Crown in Popes-head-Alley. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:167915:2"/>
+            <pb n="1" facs="tcp:167915:2"/>
+            <head>A DECLARATION Of ſeveral of the Churches of Chriſt, And Godly people: Being a few of the deſpiſed <hi>Remnant</hi> in and about the City of <hi>London,</hi> that yet cleave cloſe to the <hi>Cauſe</hi> and <hi>Intereſt</hi> of our Lord <hi>Jeſus,</hi> ſo much diſowned and rejected in theſe times of <hi>Apostacie,</hi> and in this hour of our great <hi>Tribulation</hi> and <hi>Temptation.</hi>
+            </head>
+            <p>
+               <hi>IN the Name of</hi> Jehovah-Niſſi, (Exod. 17.15.) <hi>our</hi> Lord Chriſt, <hi>Protector of his</hi> People, King <hi>of</hi> Saints <hi>and</hi> Nations: <hi>To all that are</hi> ſanctified <hi>in</hi> Jeſus Chriſt, <hi>whether</hi> in Churches, <hi>or</hi> out, <hi>that partake of the ſame</hi> Faith <hi>(with us) of our</hi> Lord Jeſus, <hi>eſpecially the</hi> ſealed number <hi>now upon their</hi> watch, <hi>that have not defiled their</hi> garments, <hi>whoſe</hi> robes <hi>are waſhed with the</hi> blood <hi>of the</hi> Lamb, <hi>that are</hi> redeemed <hi>from among men, and fellow
+<pb n="2" facs="tcp:167915:3"/>the</hi> Lamb <hi>whither ſoever he goeth, in theſe</hi> three Nations, <hi>or elſewhere. We their unworthy</hi> Brethren, <hi>one with them in the preſent</hi> Sufferings <hi>of our</hi> Lord Jeſus, <hi>and his</hi> Saints, <hi>in the behalf of our ſelves, and many others, Do from the bottom of our hearts, wiſh like</hi> Faith, Grace, Zeal, Light, Joy, <hi>and</hi> Peace, <hi>which we enjoy from</hi> God <hi>the</hi> Father, <hi>and</hi> Jeſus Chriſt <hi>our</hi> Lord. Amen.</p>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as we believe many <hi>godly people</hi> in theſe three Nations and elſewhere, are <hi>deceived</hi> (and therefore <hi>unſatisfied</hi>) concerning <hi>us</hi> in the matters of our <hi>faith,</hi> relating to the moſt precious <hi>Cauſe, Intereſt,</hi> and <hi>Monarchy</hi> of the Lord Chriſt, (which we cleave unto) through <hi>miſrepreſentations</hi> and <hi>falſe reports</hi> made of <hi>us</hi> and <hi>our Principles,</hi> by <hi>perſons,</hi> and <hi>Letters</hi> poſted about the Nations for that purpoſe, full of <hi>er<g ref="char:EOLhyphen"/>rors, miſtakes, unchriſtian cenſures, uncharitable reproa<g ref="char:EOLhyphen"/>ches</hi> and <hi>invectives,</hi> wherein the Adverſaries have all the advantage againſt us, that <hi>worldly power</hi> can poſ<g ref="char:EOLhyphen"/>ſeſs them with: but now, that we may no longer (by a <hi>forced ſilence</hi>) be a <hi>diſſatisfaction</hi> to our Friends, <hi>grie<g ref="char:EOLhyphen"/>vance</hi> to the Truth, <hi>offence</hi> to the Saints, a <hi>trouble</hi> to our own Conſciences, and <hi>advantage</hi> to the Adverſa<g ref="char:EOLhyphen"/>ries, or be ſo much the <hi>ſubject</hi> (as we have been) of our Enemies malice, to forge their lyes, jealouſies, or evil reports upon, nor yet be <hi>ſuſpicious</hi> to many, and for <hi>ſignes</hi> and <hi>wonders</hi> to moſt in the Common<g ref="char:EOLhyphen"/>wealth; as if we were <hi>monſters,</hi> and not <hi>men; infidels,</hi> and not <hi>believers; enemies</hi> to Government, and not <hi>orators</hi> for it day and night, as God hath appointed it; We ſhall therefore (in the behalf of thouſands more (we hope) one with us herein) in all <hi>faithfulneſs, meek<g ref="char:EOLhyphen"/>neſs,</hi>
+               <pb n="3" facs="tcp:167915:3"/>and <hi>clearneſs,</hi> declare unto you, (and to all the world) how far we are <hi>engaged</hi> in this moſt glorious (though crucified) cauſe of Chriſt, (maugre all oppo<g ref="char:EOLhyphen"/>ſition of Men or Devils) in as little room as this ſhort Narrative will allow us; being awakened thereunto every day. Yet it cannot be expected, that in this Paper we ſhould relate <hi>all</hi> our Grievances, lay down <hi>all</hi> our Grounds, or anſwer <hi>all</hi> Objections, (which we hope to do hereafter) but onely ſo far as may make obvious to any <hi>unbyaſſed</hi> eye or underſtanding, the juſt <hi>riſe</hi> of our Diſcontents, Troubles, and Diſſatisfacti<g ref="char:EOLhyphen"/>ons, and as may exonerate our ſouls in the ſight of Heaven and Earth.</p>
+            <p>O our <hi>bowels,</hi> our <hi>bowels!</hi> our <hi>hearts</hi> even ake, and are pained within us, to hear the doleful and daily <hi>groans</hi> of Gods people, crying out, O where are our <hi>Deliverers</hi> and <hi>Saviours!</hi> The <hi>Reeds</hi> that we leaned upon, have <hi>pierced</hi> our hands, and we <hi>bleed!</hi> And af<g ref="char:EOLhyphen"/>ter our eyes <hi>fail</hi> with looking for <hi>Freedom, Peace,</hi> and <hi>Light,</hi> behold <hi>Darkneſs, Oppreſsion,</hi> and <hi>Distraction!</hi> and what hope is left us? And all this, through the declenſion of the <hi>Armies</hi> firſt Principles, and former Declarations, extant to the view of the world: wit<g ref="char:EOLhyphen"/>neſs p. 14, 15 of the Remonſtr. <hi>Albans,</hi> &amp; p. 66. They urge it upon the grounds of <hi>Common Right, Freedom,</hi> and <hi>Safety,</hi> that Parliaments be by a <hi>certain ſucceſsion, Annually,</hi> or <hi>Biennially.</hi> And in their Declar. <hi>June</hi> 14. 1647. p. 8, 9. they declare this ſo <q rend="inline">eſſential and fun<g ref="char:EOLhyphen"/>damental to Freedom, as that it cannot, nor ought it to be denied or withholden from us: and that arbitrary or abſolute power in any perſon or per<g ref="char:EOLhyphen"/>ſons during life, doth not render that State any bet<g ref="char:EOLhyphen"/>ter then Tyranny, nor the People ſubjected thereto
+<pb n="4" facs="tcp:167915:4"/> any better then Vaſſals.</q> And therefore they ſay, p. 9. <q rend="inline">We are ſo far from deſigning or complying to have an abſolute or arbitrary power ſigned or ſetled for continuance in any perſons whatſoever, as that (if we might be ſure to obtain it) we cannot wiſh to have it ſo in the perſons of any whom we could moſt confide in, or who ſhould appear moſt of our own opinions or principles, or whom we might have moſt perſonal aſſurance of, or intereſt in; but that the Authority of this Kingdom in Parliament may ever ſtand, and have its courſe.</q> Yet for all this, were not the laſt Parliament diſſolved, for that they would rule as <hi>Saints,</hi> (or part of the <hi>fifth Monar<g ref="char:EOLhyphen"/>chy,</hi> for Chriſt) and for doing that the former Par<g ref="char:EOLhyphen"/>liament neglected, &amp; therefore were diſſolved? and for doing that which the <hi>Army</hi> and <hi>good people</hi> had many yeers declared to be their duty to do? <hi>viz.</hi> Remonſtr. p. 20. And have not ſome by <hi>Printing</hi> opprobriouſly and injuriouſly <hi>abuſed</hi> thoſe precious members that ſtood for the Magiſtracie and Miniſtery of the <hi>Goſpel,</hi> or <hi>Unction,</hi> as if they would have had <hi>no</hi> Government, <hi>no</hi> Miniſters, nor Propriety at all? and, after all their <hi>integrity,</hi> caſt an <hi>Odium</hi> upon them, and upon the name of <hi>Saints,</hi> yea, and upon the <hi>Interest</hi> of Chriſt, againſt which they have opened the mouthes of many thou<g ref="char:EOLhyphen"/>ſands to <hi>blaſpheme?</hi> O theſe are the ſwords which pierce our hearts! Beſides, doth not this <hi>Perſonal In<g ref="char:EOLhyphen"/>terest</hi> now up, look too much alike that which God hath <hi>confounded</hi> and <hi>ſtamped upon</hi> before our eyes? in the ſame predicament of <hi>Pride, Profaneſs, Perſecution</hi> of Saints, and <hi>Oppreſsion,</hi> with them that went before? Oh! are not the <hi>Wicked</hi> exalted on every ſide, and ſuch taken up again, (Malignants and others) as not
+<pb n="5" facs="tcp:167915:4"/>long ſince they moſt declaim'd againſt? and are not the <hi>Saints</hi> (and them onely, or moſtly) afflicted, caſt out of their Aſſemblies from praying and preaching? and ſome of the faithfulleſt of them in all theſe Wars, now cloſely impriſoned (for their Conſciences and this Cauſe of Chriſt) from the <hi>common air,</hi> yea, caſt among Malefactors condemned; threatned, re<g ref="char:EOLhyphen"/>proached, and trampled on? Oh! can we have hearts ſo hard, as to mention theſe, and (many more) ſuch like <hi>effects,</hi> without yerning and mourning? Beſides, are not the new Court of <hi>Tryers</hi> at White<g ref="char:EOLhyphen"/>hall for Miniſters, of like make with the Biſhops <hi>High-Commiſsion-Court?</hi> The Graven image of the <hi>worldly power,</hi> creating a <hi>worldly Clergie,</hi> for <hi>worldly ends,</hi> highly ſcandalous, and againſt the Rule of the Goſpel, and Faith of Chriſt, and as much to be ex<g ref="char:EOLhyphen"/>ploded as the <hi>Pope</hi> and <hi>Prelate?</hi> notwithſtanding they aſſume the title of <hi>Orthodox,</hi> and <hi>ſoundneſs</hi> of opinion to themſelves, and upon that account charge others (that are not one with them in their Carnal and Anti<g ref="char:EOLhyphen"/>chriſtian Intereſt) with <hi>Errours</hi> and <hi>Raſhneſs.</hi> But, as the Declaration of the Army to <hi>Scotland,</hi> (p. 15) ſaith, <q rend="inline"> This hath been found in all ages of high advantage to them that aſſumed it, that it were ſtrange if thoſe <hi>(Civil Tryers)</hi> ſhould not have uſed it to ſmite them withal, whom they would render odious, and deſtroy.</q> And is not <hi>This</hi> againſt their own Declar. to <hi>Scotland,</hi> p. 16. where they ſay, <q rend="inline">That that Church-Government which is of God, Gods own means, <hi>viZ.</hi> his Word, muſt eſtabliſh, without a buſie medling with, or engaging of the authorities of the world?</q> And the Lo. General <hi>CROMWEL,</hi> in his Letter to the Kirk-aſſembly from <hi>Dunbar,</hi> p. 11.
+<pb n="4" facs="tcp:167915:5"/>ſaith, <q rend="inline">It is worth conſidering, how thoſe Miniſters take into their hands the inſtruments of a fooliſh ſhepherd, that meddle with worldly policies, or earthly powers, to ſet up that which they call The Kingdom of Chriſt; which indeed is neither it, nor, if it were, would ſuch means be found effectual for that end; and neglect, and not truſt to the Word of God, the Sword of the Spirit, <hi>&amp;c.</hi>
+               </q> Is not this all true in the <hi>Tryers?</hi> And is not this alſo againſt their own Remonſtr. <hi>Albans,</hi> pag. 20. where they de<g ref="char:EOLhyphen"/>clare it the Parliaments part, <q rend="inline">to protect religous men, and take away all the corrupted Forms of outſide-Religion, and <hi>(National)</hi> Church-ſtare, whether impoſed without Law, or rooted in Law in times of Popiſh ignorance or idolatry, or of Go<g ref="char:EOLhyphen"/>ſpels dimmer light; and alſo to take away the de<g ref="char:EOLhyphen"/>pendence of the <hi>(National)</hi> Clergie in Civil Laws and Eccleſiaſtical affairs, which they had upon the King; or that intereſt of the Clergie in Civil Laws and Affairs, which the craft of both in length of time had wrought for each other: But that the King's part was to diſcountenance the Godly, or a<g ref="char:EOLhyphen"/>ny conſcience obliging above or againſt humane or outward Conſtitutions, &amp; to uphold and maintain the Civil dependence of the Clergie, and their Church-matters, under him.</q> Our bowels are ſo moved at theſe things, that we cannot refrain from <hi>bewailing</hi> our condition, after ſo vaſt a ſtream and treaſure of the blood, tears, prayers, lives, and ſpoils of our deareſt relations. O did we ever think to ſee ſo many <hi>hopeful Inſtruments</hi> in the Army, Churches, and elſewhere, to be ſo fully <hi>gorged</hi> with the <hi>fleſh</hi> of Kings, Captains, and Nobles, <hi>&amp;c.</hi> (<hi>i. e.</hi> with their
+<pb n="7" facs="tcp:167915:5"/>
+               <hi>Lands, Mannors, Eſtates, Parks,</hi> and <hi>Palaces</hi>) ſo as to ſit at <hi>eaſe,</hi> and comply with Antichriſt, the World, Worldly Church and Clergie. Oh! how hath the Cup of the <hi>Whore</hi> foxt and inchanted men! <hi>viz.</hi> with the wine of the wrath of her fornication, to commit ſin with her daily, (which the <hi>ſober</hi> bluſh to ſee) and to <hi>paint</hi> her over afreſh, for <hi>New Lovers</hi> to lie down with, to their utter ruine! O the <hi>Myſtery of Ini<g ref="char:EOLhyphen"/>quity</hi> works apace! This ſubtil <hi>ſpirit</hi> and <hi>ſoul</hi> of An<g ref="char:EOLhyphen"/>tichriſtianiſm (in a new <hi>body</hi>) hath bewitched many of the <hi>Common ſort,</hi> and is wonderful cunning to de<g ref="char:EOLhyphen"/>ceive; although by this univerſal <hi>falling away</hi> a<g ref="char:EOLhyphen"/>mongſt us, the <hi>Man of ſin</hi> is (bleſſed be Jehovah) more diſcovered then ever, who muſt be <hi>deſtroyed</hi> with the <hi>breath</hi> of Chriſt's mouth, and the <hi>brightneſs</hi> of his coming. Yet under a ſad ſenſe of ſo many <hi>freſh</hi> aſſaults which the Saints meet with daily by <hi>outward Violence,</hi> and <hi>Eccleſiaſtical Tyranny,</hi> and in a clear apprehenſion of that <hi>heavie Doom</hi> and <hi>Precipice</hi> hard by (we verily believe) upon all thoſe <hi>Powers</hi> and <hi>Interests</hi> of men, which keep warm the Seat of the <hi>bloody Beast</hi> for the <hi>Mother of harlots:</hi> And after many <hi>Solemn Meetings,</hi> and ſeekings of God for a <hi>ſpecial preſence,</hi> rolling our ſelves onely on his <hi>Arm,</hi> having no <hi>carnal confidence,</hi> (bleſſed be our wiſe God) now left us to look upon, we are fully perſwaded in our ſouls, that he who hath hitherto moſt eminently appeared, and plainly owned this <hi>bleſſed Cauſe</hi> (which the <hi>Apostates</hi> of the times have caſt aſide, and we yet cleave unto) in <hi>England, Ireland, Scotland,</hi> and elſe-where, according to the <hi>faith</hi> and <hi>prayers</hi> of his <hi>poor deſpiſed people,</hi> that he will <hi>yet appear,</hi> and that more eminently, (and terribly too) to ſave, then ever, and
+<pb n="8" facs="tcp:167915:6"/>witneſs to the <hi>righteouſneſs</hi> of his own <hi>Cauſe,</hi> and the <hi>innocencie</hi> of his <hi>ſervants</hi> that <hi>ſuffer</hi> therein, in great mercy and pity, paſſing by the failings and infirmi<g ref="char:EOLhyphen"/>ties of us his poor creatures. Therefore though we are ſure that <hi>God</hi> will vindicate <hi>his own Name</hi> to pur<g ref="char:EOLhyphen"/>poſe, ere long, under ſo much reproach; yet, in the <hi>dread</hi> of <hi>that Name,</hi> we appeal unto the <hi>LORD,</hi> who will be a <hi>ſwift witneſs</hi> againſt us, if we utter theſe things in <hi>hypocriſie,</hi> or for baſe ends, or for any carnal <hi>Perſonal Interest</hi> whatſoever, if we are not in the <hi>ſin<g ref="char:EOLhyphen"/>cerity</hi> and <hi>ſimplicity</hi> of our hearts (ſo far as we have one grain of true <hi>grace</hi> in us) for Chriſt alone, and his poor rejected <hi>Cauſe</hi> and <hi>People,</hi> that we may eaſe and exonerate our ſelves in the <hi>ſenſe</hi> we have of our <hi>duty</hi> herein, and be withdrawn (to the eye of all) from partaking in the <hi>crying</hi> ſins and Apoſtacie of the Times; with all faithfulneſs, holy awe, and humility, we <hi>profeſs</hi> and <hi>declare,</hi>
+            </p>
+            <p n="1">1. For this <hi>Cauſe</hi> and <hi>Kingly Interest</hi> of our Lord Jeſus, in <hi>England, Ireland,</hi> and <hi>Scotland,</hi> or elſwhere, according to the ſeveral Declarations of the Army, ſealed to with the blood of thouſands of the <hi>precious Saints,</hi> the cry of whoſe blood is <hi>for Christ,</hi> accord<g ref="char:EOLhyphen"/>ing to the Declaration of the <hi>Army</hi> to <hi>Scotland,</hi> p. 36, 37, 38, 39. who declare, <q rend="inline">They were ſtirred up by the Lord to aſſiſt the Parliament againſt the King, for this end, To bring about the deſtruction of Antichriſt, and the deliverance of his true Church and people; &amp; upon this ſimple account was it, that they engaged in the Wars of the three Nations, a<g ref="char:EOLhyphen"/>gainſt all Oppoſers of this work of Jeſus Chriſt; having theſe things ſingly in their eye, <hi>viz.</hi> the de<g ref="char:EOLhyphen"/>ſtruction of Antichriſt, and advancement of the
+<pb n="9" facs="tcp:167915:6"/>Kingdom of Jeſus Chriſt, and deliverance and reformation of his Church, and the eſtabliſh<g ref="char:EOLhyphen"/>ment of Chriſts Ordinances according to his Word, and the juſt Civil Liberties of Engliſh<g ref="char:EOLhyphen"/>men. And this, they declare, with the loſs of many precious Saints, p. 38. That they en<g ref="char:EOLhyphen"/>gaged againſt the late King and his Monarchy, as one of the ten horns of the Beaſt, guilty of the blood of the Saints: which act <hi>(they ſay)</hi> they are confident God will own againſt all Kingdoms or Nations that will oppoſe them, and that will not ſuffer Jeſus Chriſt to be King.</q> So page 39. they declare, <q rend="inline">they value the Churches <note n="(a)" place="margin">Then owning the Congregated Churches, as appears by Letters written to Mr. <hi>Feak,</hi> and Mr. <hi>Simpſon,</hi> and the Churches that walk in fellowſhip with them, and others.</note> of Chriſt, who are the lot of Gods inheritance, a thouſand times beyond their own lives; and that it is their duty to perſevere therein to the utmoſt hazard of their lives: and that the Lord made them inſtruments to vex all in his ſore diſpleaſure, that take counſel againſt Chriſt, whom the Lord hath anointed and decreed King: and that they were not meerly the ſervants of man; and that they were not meerly the ſervants of man; and that they not onely proclaimed Jeſus Chriſt, King of Saints, to be King, but that they would ſubmit to him (alone) upon his own terms, and admit him (onely) to the exerciſe of his Royal authority.</q> Therefore ſay they, in pag. 40. <q rend="inline">We beſeech you, in the fear of God, look about you: for our Lord Jeſus is coming, <hi>&amp;c.</hi>
+               </q> Now accordingly we have and do declare for this <hi>Royal Interest</hi> of
+<pb n="10" facs="tcp:167915:7"/>Chriſt, which ought to be ſet up, which ſo much blood hath been poured out for, like water, in the three Nations.) This Cauſe of Chriſt was magni<g ref="char:EOLhyphen"/>fied by God, in anſwering the <hi>Dunbar</hi>-Appeal againſt the King of <hi>Scots:</hi> The Engliſh Army appealing to God, according to the Act of Parliament, 1648. de<g ref="char:EOLhyphen"/>claring it <hi>High treaſon</hi> to ſet up <hi>Charles Stuart,</hi> or <hi>Any other perſon,</hi> Chief Magiſtrate in <hi>England,</hi> or <hi>Ireland,</hi> or any of the Dominions thereunto belonging. And as our Appeal was for <hi>No King but Jeſus,</hi> (by which were the greateſt Victories obtained that we had) the Scots Appeal, on the other ſide, was for <hi>A King,</hi> or <hi>Perſonal Intereſt</hi> of <hi>Man,</hi> &amp;c. God's anſwer was ſo full and wonderful on the <hi>No King</hi>'s ſide but <hi>Jeſus,</hi> and according to the Act of Parliament, (upon which the Army marched againſt the King of <hi>Scots</hi>) that <hi>all Scotland</hi> was given in in few months, and their armies deſtroyed: and, to uſe the very words of the Act of Parliament, <hi>Die Martis,</hi> 17 <hi>Septemb.</hi> 1650. <q rend="inline">This anſwer was enriched with ſo many remarkable cir<g ref="char:EOLhyphen"/>cumſtances, as is to be admired at by ſucceeding generations; evidencing ſuch a divine preſence, as the Commonwealth can never be thankful enough for: and that it was given in as a Seal or Confir<g ref="char:EOLhyphen"/>mation from heaven, of the juſtneſs of this Cauſe, after ſolemn appeals made on both ſides to God himſelf, the righteous Judge in this War between <hi>England</hi> and <hi>Scotland:</hi> and that God did ſo de<g ref="char:EOLhyphen"/>cide the Controverſie, (himſelf) was of ſuch value and high conſequence, that Generations to come may taſte the ſweet of it <hi>&amp;c.</hi>
+               </q> Beſides all this, much more we might mention (of their own) for this <hi>Cauſe</hi> and <hi>Kingly Intereſt</hi> of Chriſt; which
+<pb n="11" facs="tcp:167915:7"/>we are reſolved to adhere to, and (if the Lord will enable us) never to recede from, but to live and die in it. Neither is it a <hi>Reſiſting of Government,</hi> (as ſome ſay of us) but a <hi>Reforming</hi> of it (which our Principles lead us to) according to the <hi>Word.</hi> And ſeeing the <hi>Army</hi> and <hi>Parliament</hi> have often declared, as pag. 7. of Declar. <hi>June</hi> 14. 1647. <q rend="inline">No reſiſting of Magiſtra<g ref="char:EOLhyphen"/>cie, to ſide with juſt Principles; upon which Ma<g ref="char:EOLhyphen"/>xime they aſſiſted the Parliament againſt the King: and that it is one witneſs of God in the world, to carry on a teſtimony againſt the injuſtice and un<g ref="char:EOLhyphen"/>righteouſneſs of men, and againſt the miſcarriages of Governments, when corrupted, or declining from their primitive and original glory.</q> We uſe their own words. 'Tis true, <hi>Every ſoul</hi> muſt be <hi>ſub<g ref="char:EOLhyphen"/>ject to the higher powers;</hi> and it is in <hi>obedience</hi> thereunto, that we are ſubject to Chriſt, and ſtand by this his Cauſe (as we do) ſo long as the Controverſie is not now (with us) between Man and Man, (as was wont to be in other ages) but it is between Chriſt and Man. Which of theſe two then ſhall have the abſolute power of Government in the Nations? and who are the reſiſters of the higher powers which are of God, thoſe that <hi>own,</hi> or thoſe that <hi>oppoſe</hi> Chriſt's claim? Judge ye!</p>
+            <p n="2">2. Becauſe the <hi>Boutefeu</hi>'s of the Times are ever blowing up the <hi>flames</hi> upon us, and incenſing the pre<g ref="char:EOLhyphen"/>ſent worldly powers and others againſt us, with their lying accuſations, and evil ſurmiſings, as the adver<g ref="char:EOLhyphen"/>ſaries did, <hi>Ezra</hi> 4. and <hi>Nehem.</hi> 6. againſt <hi>Iudah</hi> and <hi>Ie<g ref="char:EOLhyphen"/>ruſalem,</hi> (to render them odious to <hi>Artaxerxes</hi>) that they intended to <hi>rebel</hi> when they had done their buil<g ref="char:EOLhyphen"/>ding; and that if he ſuffered them to go on, it would
+<pb n="12" facs="tcp:167915:8"/>hinder his <hi>Revenue,</hi> &amp;c. and ſo <hi>Sanballat</hi> ſent <hi>Nehe<g ref="char:EOLhyphen"/>miah</hi> word, that he and the Jews intended to rebel, when they had done with the walls they were about: and all this, to weaken the hands of them that had a minde to work. Therefore, to avoid ſuch Jea<g ref="char:EOLhyphen"/>louſies and Fears, We do freely declare againſt all Carnal Plots, Deviliſh Deſignes, or Ungodly Com<g ref="char:EOLhyphen"/>binations of men whatſoever, as inconſiſtent with thoſe gracious Principles which have (we hope) car<g ref="char:EOLhyphen"/>ried us (and yet do daily) into a <hi>ſpiritual warfare</hi> and <hi>hot conteſt</hi> for this Cauſe of Chriſt, by the Word, Faith, Prayer, and Solemn appeals unto our God, the righteous Judge of heaven and earth. And in<g ref="char:EOLhyphen"/>deed, being (thus) armed with <hi>the whole armour of God,</hi> we dare (as before) wreſtle with Principalities and Powers; and, through the grace of our God, we are not afraid of their <hi>Armies</hi> or <hi>Numbers,</hi> but (al<g ref="char:EOLhyphen"/>though we have not the leaſt reliance on any arm of fleſh, yet) we can bid defiance unto all the enemies of this glorious Cauſe of Chriſt contended for by the Saints, with thoſe means that God's Word leads us unto; for which, our dear brethren are <hi>impriſoned,</hi> and <hi>ſuffer perſecution</hi> at this day. Therefore, in a juſt and ne<g ref="char:EOLhyphen"/>ceſſary defence of what is dearer to us then our lives, (bought with the price of the blood of Chriſt, and thouſands of his deareſt Saints) we call heaven and earth to witneſs between us and our brethren that have denied us and this Cauſe! For in Caſes not clearly or properly under mans judgment, or where it is not eaſie for man to give a certain judgment, the engaged, upon ſure Principles and Pretences, do centre in appeals to God for judgement: and ſo did the two tribes and a half, <hi>Joſh.</hi> 22. for that it is then
+<pb n="13" facs="tcp:167915:8"/>the proper work of God to bear witneſs, and give righteous judgment: which as he hath always done, ſooner or later, clearer or darker, after the Appeal is made to him; ſo in this <hi>laſt age</hi> and <hi>part</hi> of the world he hath made more <hi>haſte</hi> then formerly to <hi>judgement,</hi> and given it more quickly, ſpeedily, and terribly, and made his <hi>own Arm</hi> ſo bare therein, as all men might ſee it: witneſs the aforeſad <hi>Appeal</hi> at <hi>Dunbar.</hi> In the ſame <hi>Cauſe</hi> the <hi>Appeal</hi> is now made (by us) a<g ref="char:EOLhyphen"/>gain. All which hath induced us to take up the Word of God, Faith, and Prayer (by Solemn Ap<g ref="char:EOLhyphen"/>peals to the juſt Judge of Heaven and Earth) in the like and the ſame Cauſe. A few particulars of the Matter whereof, take as followeth.</p>
+            <p n="1">1. About their <hi>Vows, Declarations, Promiſes, Engage<g ref="char:EOLhyphen"/>ments,</hi> made unto God for <hi>Chriſt</hi> and <hi>his Interest,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 66.13, 14. <hi>Deut.</hi> 23.21. <hi>Eccleſ.</hi> 5.3, 4. 5.6.</note> in time of their <hi>great distreſs:</hi> all which, are they not broken, both as to <hi>Magistracie, Mi<g ref="char:EOLhyphen"/>nistery, Churches, Liberty,</hi> and the <hi>Right</hi> of the <hi>Saints</hi> of the moſt High? We appeal to God.</p>
+            <p n="2">2. Whether an eſpouſing of the <hi>ſame</hi> or a <hi>like in<g ref="char:EOLhyphen"/>terest</hi> with that which God hath deſtroyed before our eyes, and rejecting this <hi>bleſſed Cauſe</hi> of Chriſt, King of the Nations, for a <hi>Perſonal Cauſe</hi> of Man, as we now conceive, <hi>Jer.</hi> 3.1, <hi>Mal.</hi> 2.11. be not a provocation of God in the higheſt degree, and too full a teſtimony of the fouleſt hypocriſie and ſelfiſh<g ref="char:EOLhyphen"/>neſs in them, whoſe former Profeſſion and Declara<g ref="char:EOLhyphen"/>tions obliged them to the contrary?</p>
+            <p n="3">3. Whether a <hi>perſecuting</hi> and <hi>impriſoning</hi> ſome of of the choiceſt and holieſt ſervants of Chriſt, in the preſent <hi>light,</hi> and <hi>work</hi> of this Generation, whilſt the
+<pb n="14" facs="tcp:167915:9"/>Wicked are <hi>exalted</hi> on every ſide, and ſuch as were caſt by, taken up again, <hi>Iſa</hi> 49.24, 25. <hi>Ier.</hi> 13.17. be of God, or no?</p>
+            <p n="4">4. Whether the <hi>violence</hi> and <hi>force, flattery,</hi> or any other wayes which are uſed to compel any of us, a<g ref="char:EOLhyphen"/>gainſt our Conſciences, to proſtrate to mens <hi>carnal interests,</hi> and to ſin againſt the light, be according to their former pretended Principles, or the Word of God?</p>
+            <p n="5">5. Whether their <hi>unjuſt</hi> and <hi>unchristian accuſations</hi> of us in the face of the world, are not full of <hi>loath<g ref="char:EOLhyphen"/>ſome</hi> and <hi>cruel lyes,</hi> whiles they ſpread about, That we are <hi>againſt Magiſtracie, Miniſtery, Propriety, Ordi<g ref="char:EOLhyphen"/>nances,</hi> and the like? Whether it be ſo or no, we ap<g ref="char:EOLhyphen"/>peal to him that judgeth righteouſly.</p>
+            <p n="6">6. Their <hi>vexing</hi> and <hi>riſing up againſt</hi> the Spirit of God, which they call an <hi>Impoſtor,</hi> and the <hi>falſe, de<g ref="char:EOLhyphen"/>viliſh, fanatick ſpirit</hi> of <hi>Black-Fryers,</hi> or <hi>Alhallows</hi>-meeting; ſpeaking blaſphemouſly againſt it, and that frequently: wherein we appeal to the Lord to judge, Whether that Spirit that is among them, leading to Pride, Pomp, Worldlineſs, Carnallity, Lying, Perſecution, and Blaſpheming; or that Spi<g ref="char:EOLhyphen"/>rit which leads us day and night to the duty of Faith, Aſſembling, Praying, Preaching; Exhorting, and Building up in the <hi>preſent Truth</hi> conteſted againſt by them, and to Comforting Counſelling, and Quicking up one another every day, to hold faſt our profeſſion without wavering; to Self-denying and Morification, that we may not minde the pre<g ref="char:EOLhyphen"/>ſent World, nor the vanities thereof: Whether this Spirit, our <hi>infirmities</hi> excepted, or theirs, which acts them, be of God; and which is the <hi>deviliſh,
+<pb n="15" facs="tcp:167915:9"/>wordly,</hi> and <hi>deluding ſpirit.</hi> Iſa. 63.10. 2 Pet. 2.7, 8.</p>
+            <p n="7">7. Is not <hi>pomp, pride,</hi> and <hi>vanity</hi> in <hi>Court</hi> and elſe<g ref="char:EOLhyphen"/>where, now up again, (in ſome reſpects more then ever) ſo much conteſted and inveighed againſt for ſo many yeers together, by themſelves and others? Whether by theſe (amongſt other things) they have not opened the mouthes of the <hi>Enemies</hi> to blaſpheme Chriſt and his Spirit? to reproach his Cauſe, and to harden their hearts? And whether they have not given advantage to <hi>Charles Stuart</hi> or ſome others, to <hi>invade</hi> us, our lives, our relations, afreſh, by open Wars, Inundation of blood and Miſchief, ſo as ſeems to make void and uneffectual many yeers Wars, with vaſt treaſure, expence and blood?</p>
+            <p n="8">8. Whereas they ſay, we are <hi>all for Wars,</hi> and would have <hi>no Peace</hi> with the Nations round about; we appeal to God therein, whether we are not for the beſt, ſafeſt, and laſting (godly) Peace? and, were it God's will, could wiſh no more blood might be ſhed! Although we would not willingly ſee a <hi>peace</hi> (worſe then <hi>War</hi>) made with the <hi>nations,</hi> againſt the <hi>Word of God,</hi> Safety and Liberties of the <hi>good peo<g ref="char:EOLhyphen"/>ple,</hi> (for which ſo many have bled both by Land and Sea) and upon ſuch terms too, as makes more for the intereſt of <hi>ſome men,</hi> then for the <hi>Publick;</hi> or upon ſuch Articles, (as might make us bluſh for ſhame, <hi>at this time of the Day,</hi> and after ſo many <hi>out-goings</hi> of God in the midſt of us) as have not ſo much as one Article for the <hi>Lord Jeſus,</hi> or his <hi>Saints,</hi> that are in the <hi>preſent work</hi> of this generation, concerning <hi>Chriſts Kingdom</hi> or <hi>Intereſt,</hi> to ſubſcribe unto, <hi>Numb.</hi> 33.52, 53. to the end. <hi>Exod.</hi> 23.32, 33, and 34. chap. 12.13.</p>
+            <pb n="16" facs="tcp:167915:10"/>
+            <p>Upon theſe (and many other) grounds, we are <hi>in<g ref="char:EOLhyphen"/>duced</hi> (and are <hi>reſolved</hi> in the ſtrength of Chriſt) to keep up the Altar <note n="*" place="margin">
+                  <hi>Ioſh.</hi> 22.34.</note>
+               <hi>ED,</hi> and continue our <hi>Appeal</hi> until the Lord doth anſwer in <hi>ju<g ref="char:EOLhyphen"/>ſtice,</hi> and yet in much <hi>mercy,</hi> to his poor little <hi>remnant,</hi> (which we are perſwaded will be <hi>ſpeedily</hi>) as <hi>Luke</hi> 18.7, 8. And if men will (yet) needs blinde their eyes, and harden their hearts (we could wiſh it be not to their deſtruction) yet we do bleſs our <hi>heavenly Fa<g ref="char:EOLhyphen"/>ther</hi> that hath <hi>opened our eyes,</hi> and <hi>kept our feet from fal<g ref="char:EOLhyphen"/>ling,</hi> (with them) that we can <hi>ſo comfortably</hi> ſee the things that concern our (beſt) <hi>Peace,</hi> according to the <hi>Law</hi> and the <hi>Testimony,</hi> in the <hi>ſure Word of Pro<g ref="char:EOLhyphen"/>phecie.</hi> Bleſſed be JEHOVAH. Amen, A<g ref="char:EOLhyphen"/>men.</p>
+            <p n="3">3. But thirdly and laſtly, for that we finde much <hi>Miſunderſtanding</hi> among <hi>ſome,</hi> and <hi>Miſrepreſentations</hi> among <hi>moſt,</hi> of the <hi>Fifth Monarchy,</hi> or <hi>Kingdom of Christ in the Nations,</hi> which the holy Scriptures, both in the Old and New Teſtament, do clearly and plen<g ref="char:EOLhyphen"/>tifully declare, with a poſitive period to the <hi>Worldly, Heatheniſh Laws, Ordinances</hi> and <hi>Conſtitutions</hi> of men, as they are now executed in the <hi>Nations</hi> of the <hi>world:</hi> And whereas it is alſo upon the hearts of many of the <hi>choice ſervants</hi> of God, that in this preſent Age the Lord JEHOVAH is ſetting up the fifth King<g ref="char:EOLhyphen"/>dom, (as <hi>Dan.</hi> 2.44. &amp; 7.22, 26, 27. <hi>Zech.</hi> 21.) which ſhall not be <hi>left to other people,</hi> but <hi>ſhall break in pieces all the four kingdoms, and remain for ever and ever;</hi> and that (at this time) whenas the fourth Monarchy is partly broken in theſe Nations, that Chriſt may be the <hi>onely Potentate,</hi> the <hi>King of kings,</hi> and of all Na<g ref="char:EOLhyphen"/>tions, 1 <hi>Tim.</hi> 6.15. <hi>Micah</hi> 4.7. <hi>Zech.</hi> 9.9, 10. <hi>Col.</hi> 1.16.
+<pb n="17" facs="tcp:167915:10"/>
+               <hi>Heb.</hi> 2.8. <hi>Rev.</hi> 11.15. &amp; 17. Chap. 14 &amp; 19. Chap. 15.16. Now finding this (the <hi>preſent Truth</hi>) ſo much oppoſed by the <hi>National Rulers</hi> and <hi>their Clergie,</hi> yea, and by ſome <hi>godly people</hi> and <hi>Church-members,</hi> ac<g ref="char:EOLhyphen"/>counted Orthodox, who cannot <hi>endure</hi> the day of Chriſts coming; We therefore are reſolved, ac<g ref="char:EOLhyphen"/>cording to the <hi>preſence</hi> and <hi>aſsiſtance</hi> of the Lord with us, to entertain a <hi>ſerious Cenſideration</hi> and <hi>Debate</hi> for the benefit of all others, touching the premiſes, <hi>viz.</hi> of the <hi>Laws, Subjects, Extent, Riſe, Time, Place, Offices</hi> and <hi>Officers</hi> of the <hi>fifth Monarchy,</hi> or Kingdom, whereby the <hi>World</hi> muſt be governed according to the Word of God, without the <hi>mixture</hi> (as now is) of <hi>Mens Laws</hi> and <hi>Inventions,</hi> whether in reſpect of <hi>Magistracy</hi> or <hi>Miniſtery, Church</hi> or <hi>Civil affairs:</hi> which Debate we intend to hold <hi>once a week</hi> in this City of <hi>London:</hi> and we deſire our <hi>beloved brethren</hi> which are one with us in the <hi>preſent Truth</hi> and <hi>ſuf<g ref="char:EOLhyphen"/>ferings,</hi> whether <hi>in</hi> Churches or <hi>out,</hi> whether in City or Country, (that are enlightned) to take ſpecial notice of it, for this <hi>end,</hi> that they may enjoy the like <hi>fredom</hi> with us in thoſe <hi>Meetings</hi> and <hi>Debates,</hi> as often as they pleaſe to come. And if the Lord give us the <hi>liberty,</hi> we do purpoſe to proceed with the <hi>De<g ref="char:EOLhyphen"/>bate</hi> of it from <hi>this day</hi> onward, until we have taken up a <hi>full</hi> and <hi>clear Narrative</hi> thereof (ſo far as ſhall appear to us) out of the Scriptures, fit to <hi>publiſh</hi> to the <hi>view</hi> of all men, that our Principles in that point of the <hi>fifth Monarchy,</hi> may be fully known; with deſire to know what any of our <hi>Adverſaries</hi> (now againſt us) ſhall have to ſay to <hi>us</hi> or to <hi>our prin<g ref="char:EOLhyphen"/>ciples</hi> therein; who are contented with all our ſouls (the Lord knows) to be <hi>convinced</hi> of any <hi>Errour</hi>
+               <pb n="18" facs="tcp:167915:11"/>or <hi>Miſtakes</hi> by the Word of Truth: But we think not Impriſoning or Perſecuting us, a competent or fit way to convince our Conſciences; if we were in errours, as they pretend.</p>
+            <p>And although we need no Law of men to allow us this Liberty, it being our Birth-right in Chriſt a<g ref="char:EOLhyphen"/>mong Chriſtians, and ſo fully warranted by the Word of God, and practice of Primitive Saints; yet if we ſhould condeſcend to the <hi>Captious</hi> of our times, we could tell them, The <hi>Inſtrument,</hi> intituled, <hi>The Government of the Common-wealth of</hi> England, Scotland <hi>and</hi> Ireland, in the five and twentieth Arti<g ref="char:EOLhyphen"/>cle declares, <q rend="inline">That Liberty ſhall be given to diſco<g ref="char:EOLhyphen"/>ver and confute Errour and Hereſie, and whatſoe<g ref="char:EOLhyphen"/>ver is contrary to ſound doctrine.</q> All which the Engager, fol. 46. hath promiſed in the preſence of God to <hi>obſerve,</hi> and <hi>cauſe to be obſerved</hi> to his power; ſubſcribed, <hi>O. CROMWEL.</hi> In the mean time, men would do well to take heed of Blaſpheming, Re<g ref="char:EOLhyphen"/>proaching Chriſt, his Spirit, and his Monarchy, as they do daily, (for which our hearts are grieved within us) and to ſearch the Scriptures whether theſe things be ſo or no. For as the Lord <hi>Cromwel</hi> writes, in his own Letter to the Kirk of <hi>Scotland,</hi>
+               <q rend="inline"> The Word of the Lord may be to ſome a word of judgement, that they may fall backward and be broken, and ſnared and taken; there may be a ſpiri<g ref="char:EOLhyphen"/>tual fulneſs, which the world may call drunken<g ref="char:EOLhyphen"/>neſs, (or giddineſs) <hi>Act.</hi> 2.</q> O that we might beſeech ſuch in the bleeding Bowels of Chriſt, (crucified be<g ref="char:EOLhyphen"/>fore our eyes) to think it poſſible they may be miſta<g ref="char:EOLhyphen"/>ken! Though the Great Ones, and Wiſe Ones, Prieſts and Rulers, Scribes and Phariſees, and Orthodox
+<pb n="19" facs="tcp:167915:11"/>Profeſſors (ſo accounted of the times) were all on their ſide; yet a little handful of the weak ones may have the Truth (though but the deſpiſed perſecuted Truth) on their ſide. And we do in the tenderneſs of our hearts and affections to all that are faithful, beg of them in the Name of the Lord Jeſus (who is com<g ref="char:EOLhyphen"/>ing to raign righteouſly and gloriouſly) that they will have nothing to do with them that are guilty of ſo great ſins, leſt partaking of their ſins, they partake alſo of their plagues. And we hope the Lord will enable us to undergo the ſharpneſs of this day, for our dear Chriſt and his Cauſe, through the Reproaches, Impriſonments, Perſecutions, unjuſt Charges, unci<g ref="char:EOLhyphen"/>vil Railings, or un-Goſpel Carriages, which we have, or are like to meet with, whether leſs or more, ſo we may drink out of Chriſt's Cup, and pledge our Maſter, who firſt drank to us the bitter Potion.</p>
+            <p>We ſhall cloſe at preſent with our heartieſt prayers and ſupplications, That God the Father of our Lord Jeſus Chriſt would in his due time caſt down all thoſe carnal, earthly, cruel and political combinati<g ref="char:EOLhyphen"/>ous of men (of all ſorts) that would not have him to <hi>Reign</hi> over us, but ſet up themſelves, and their own corrupted intereſts, in the room of that Scepter of righteouſneſs which he hath given into the hands of his dear Son; that he would by his Spirit (reſting and abiding upon you and us) keep up all our hearts in a conſtant and patient waiting for his coming till he comes: Even ſo <hi>come quickly,</hi> Lord Ieſus <hi>come quickly.</hi>
+            </p>
+         </div>
+         <div type="list_of_signatories">
+            <pb facs="tcp:167915:12"/>
+            <pb facs="tcp:167915:12"/>
+            <head>
+               <hi>ORDERED</hi> by this <hi>Aſſembly,</hi> (mentioned in the laſt branch of the <hi>Declaration</hi>) That <hi>150</hi> (and no more) of the Names <hi>ſubſcribed</hi> to the <hi>Declaration,</hi> be tranſcribed out of the <hi>Origi<g ref="char:EOLhyphen"/>nal Copie,</hi> and publiſhed in the name of the reſt: And that a ſhort Word to the <hi>Reader</hi> be drawn up and printed, to ſignifie ſo much.</head>
+            <opener>
+               <date>The 30 day of the ſixth month. 1654.</date>
+            </opener>
+            <list>
+               <head>Of the Church that walks with M. <hi>Feak,</hi> now cloſe priſo<g ref="char:EOLhyphen"/>ner for this cauſ of Christ at <hi>Winſor</hi>-Caſtle.</head>
+               <item>EManuel Runwel</item>
+               <item>Will. Bathoe</item>
+               <item>John Jones</item>
+               <item>Philip Hieron</item>
+               <item>Miles Petty</item>
+               <item>John Greene</item>
+               <item>Tho. Cartwright</item>
+               <item>Robert Shepherd</item>
+               <item>Peter Kirby</item>
+               <item>Peter Chamberlain</item>
+            </list>
+            <list>
+               <head>In the name of the whol Church that walks with Dr. <hi>Chamber<g ref="char:EOLhyphen"/>lain.</hi>
+               </head>
+               <item>John Light</item>
+               <item>John Spittlehouſe</item>
+               <item>John Davies</item>
+               <item>Richard Ellis</item>
+               <item>Richard Smith</item>
+               <item>Robert Feak</item>
+               <item>John Rogers</item>
+            </list>
+            <list>
+               <head>In the name of the whole Body that walks with Mr. <hi>Rogers,</hi> now priſoner for this Cauſe of Chriſt at <hi>Lam<g ref="char:EOLhyphen"/>beth</hi>-priſon.</head>
+               <item>Henry Bridges</item>
+               <item>Glid. Beaumont</item>
+               <item>Gregory Garth</item>
+               <item>Hur Horton</item>
+               <item>William Medley</item>
+               <item>Chriſtoph. Crayle</item>
+               <item>Samuel Rutter</item>
+               <item>Edward Grove</item>
+               <item>John Saunders</item>
+               <item>Gregory Kirby</item>
+               <item>William Ruſſel</item>
+               <item>Benjamin Rutter</item>
+               <item>Francis Young</item>
+               <item>Abel Weſcot</item>
+               <item>Humphrey Talbot</item>
+               <item>James Greſham</item>
+               <item>John Fuller</item>
+               <item>Nicolas Spencer</item>
+               <item>Thomas Ridel</item>
+               <item>Joſeph Jefferies</item>
+               <item>Thomas Bernard</item>
+               <item>James Hicks</item>
+               <item>William Righton</item>
+               <item>John Palmer</item>
+               <item>David Morris</item>
+            </list>
+            <pb facs="tcp:167915:13"/>
+            <list>
+               <head>Of the Church that walks with Mr. <hi>Raworth.</hi>
+               </head>
+               <item>Richard Bland</item>
+               <item>James Wilſon</item>
+               <item>George Rickets</item>
+               <item>Thomas Selbie</item>
+               <item>Thomas Waltham</item>
+               <item>Daniel Roſier</item>
+               <item>John Swetnam</item>
+               <item>Robert Aske</item>
+               <item>Philip Rickards</item>
+               <item>Robert Young</item>
+               <item>George Lawſon</item>
+               <item>Joſiah Carſewel</item>
+               <item>John More</item>
+            </list>
+            <list>
+               <head>With M. <hi>Knowls</hi>
+               </head>
+               <item>John Withinbrook</item>
+               <item>Thomas Franklin</item>
+               <item>John Perkins</item>
+               <item>John Dunton</item>
+               <item>Robert Maſon</item>
+               <item>David Towler</item>
+               <item>Ioſeph Heather</item>
+               <item>Simon Wyld</item>
+               <item>Iohn Hewet</item>
+               <item>Nathaniel Aske</item>
+               <item>Thomas Harriſon</item>
+               <item>Iohn Webber</item>
+               <item>Daniel Ingold</item>
+               <item>Thomas Wilkes</item>
+            </list>
+            <list>
+               <head>Of the Church that walks with Mr. <hi>Simſon.</hi>
+               </head>
+               <item>Ieremy Wright</item>
+               <item>Iohn Sealy</item>
+               <item>Iohn Turner</item>
+               <item>Will. Shrewsbury</item>
+               <item>Iohn Coombe</item>
+               <item>Arthur Jones</item>
+               <item>Peter Kidd</item>
+               <item>Daniel Hackman</item>
+               <item>Ioſeph Cleaver</item>
+            </list>
+            <list>
+               <head>Of the Church that walks with Mr. <hi>Jeſſe.</hi>
+               </head>
+               <item>George Barret</item>
+               <item>Iohn Clarke</item>
+               <item>Thomas Pierſon</item>
+               <item>William Minchin</item>
+               <item>Nathaniel Hewet</item>
+               <item>Ioſhua Rickards</item>
+               <item>Iames Allen</item>
+               <item>Iohn Berry</item>
+               <item>Iames Rich</item>
+               <item>Iohn Iones</item>
+               <item>Ioſeph Makreth</item>
+               <item>George Ewbanck</item>
+            </list>
+            <list>
+               <head>Of the Church that walks with Mr. <hi>Barbone.</hi>
+               </head>
+               <item>William Morris</item>
+               <item>Iohn Thorne</item>
+               <item>Peter Soone</item>
+               <item>Iohn Green</item>
+               <item>Iohn Iackſon</item>
+               <item>Thomas Trouer</item>
+               <item>Iohn Richardſon</item>
+               <item>Thomas Raymond</item>
+               <item>Iohn Luxford</item>
+               <item>Iames Willow</item>
+               <item>Chriſtopher Cope</item>
+               <item>Iohn Tufnel</item>
+               <item>Hugh Griffen</item>
+               <item>Samuel Bradleigh</item>
+               <item>Iohn Young</item>
+               <item>Caleb Nicolas</item>
+               <item>Robert Smith</item>
+               <item>Thomas Crundal</item>
+               <pb facs="tcp:167915:13"/>
+               <item>Iohn Franklin</item>
+               <item>William Lucas</item>
+               <item>Iames Maſon</item>
+               <item>William Mort</item>
+            </list>
+            <list>
+               <head>Of the Church that walks with L. Col. <hi>Fenton.</hi>
+               </head>
+               <item>William Seale</item>
+               <item>Edward Farmer</item>
+               <item>Humphrey Bache</item>
+               <item>Samuel Gilbert</item>
+               <item>Ferdinando Adam</item>
+               <item>William Smart</item>
+               <item>Thomas Wheeler</item>
+               <item>Lawrence Ranſon.</item>
+               <item>Thomas Hill</item>
+               <item>Matthew Turner</item>
+               <item>Robert Steele</item>
+               <item>William Iohnſon</item>
+               <item>Mihil Miles</item>
+               <item>Thomas Baker</item>
+               <item>Iohn Hayward</item>
+               <item>Will. Burrowſton</item>
+               <item>Iohn Glover</item>
+            </list>
+            <list>
+               <head>Of the Church that walks with Juſtice <hi>High<g ref="char:EOLhyphen"/>land.</hi>
+               </head>
+               <item>Lewis Honyburne</item>
+               <item>Iohn Allen</item>
+               <item>Philip Thomas</item>
+               <item>Ralph Willis</item>
+               <item>Iohn Nicks</item>
+               <item>Iohn Low</item>
+               <item>Iohn Read</item>
+               <item>Anthony Cooper</item>
+               <item>Robert Woodard</item>
+               <item>Nich. Waterſon</item>
+               <item>Ieremy Wright</item>
+               <item>William Bate</item>
+               <item>Iohn Marlow <hi>&amp;c.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:167915:14"/>
+            <pb facs="tcp:167915:14"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>THou art deſired to take notice, that the <hi>End</hi> of this DECLARATION being to <hi>witneſs</hi> to the bleſſed <hi>Truth,</hi> with the perſecuted <hi>Cauſe</hi> &amp; <hi>ſervants</hi> of the Lord <hi>Jeſus,</hi> theſe <hi>NAMES</hi> publiſhed are thought ſufficient. Fewer, might have <hi>render'd</hi> it an <hi>inconſiderable Testimony,</hi> and given <hi>Men</hi> ad<g ref="char:EOLhyphen"/>vantage againſt us (and Chriſt's <hi>Cauſe</hi>) on that ſide. The Multitude, or <hi>More</hi> (either thoſe which we have, or the which we might have hereto) might probably <hi>repreſent</hi> it far more evil, <hi>formidable,</hi> or dangerous to them, (that are too ready, the Lord knows, to receive any <hi>Charge</hi> againſt us for our <hi>Faith</hi> and <hi>Conſciences,</hi> in theſe matters of <hi>Christs Kingly Interest.</hi>) Now to <hi>obviate</hi> this <hi>Ad<g ref="char:EOLhyphen"/>vantage,</hi> alſo, which men might have taken, <hi>Order</hi> is taken for <hi>theſe Names</hi> onely, and no
+<pb facs="tcp:167915:15"/>more, to be <hi>publiſhed</hi> herewith; and that ſe<g ref="char:EOLhyphen"/>veral <hi>other Churches</hi> beſide, whom we might mention, be forborn. And for <hi>ſubſcriptions</hi> out of the <hi>Countries</hi> (notwithſtanding the hundreds out of <hi>Kent</hi>) they are alſo <hi>all</hi> omit<g ref="char:EOLhyphen"/>ted, on purpoſe, to leave it to the <hi>Churches</hi> in their ſeveral <hi>Counties</hi> to bear their own <hi>Teſtimony</hi> to this ſuffering <hi>Cauſe</hi> of Chriſt and his Saints, as in <hi>diſcharge</hi> of our <hi>Duty</hi> (with the <hi>comfort</hi> of our Conſciences, bleſ<g ref="char:EOLhyphen"/>ſed be our heavenly <hi>Father</hi>) we (who are judg'd to be in the <hi>firſt place</hi> concern'd) have done, and DO this DAY, in the ſight of <hi>hea<g ref="char:EOLhyphen"/>ven</hi> and <hi>earth;</hi> and GOD IS OUR RECORD.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
